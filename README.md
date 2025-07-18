@@ -42,7 +42,8 @@
 - 모델 성능평가 방법 : 5fold - Cross Validation RMSE, Test Set RMSE(리더보드)
 
 ## 2. Components
-============================================
+
+-------------------------
 
 ### Directory
 ```
